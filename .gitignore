@@ -1,10 +1,12 @@
 venv/
+__pycache__
+.DS_Store
 
 webdriver/
 data/
 hands-on/
 
 .idea
-__pycache__/
+
 
 .env

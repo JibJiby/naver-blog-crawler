@@ -1,0 +1,7 @@
+venv/
+
+webdriver/
+data/
+hands-on/
+
+.env
